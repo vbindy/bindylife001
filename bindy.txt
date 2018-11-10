@@ -1,0 +1,2 @@
+bindy v1 console.log
+
